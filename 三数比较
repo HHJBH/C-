@@ -7,8 +7,8 @@ int main()
 	if (a < b)
 	{
 		int tem = a;
-			a = b;
-			b = tem;
+		    a = b;
+		    b = tem;
 	}
 	if (a < c)
 	{
